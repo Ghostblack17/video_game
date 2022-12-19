@@ -16,10 +16,13 @@ Nintendo Store 링크 : https://store.nintendo.co.kr/
 ![gaming-xbox-banner-1659960224](https://user-images.githubusercontent.com/120348491/208379408-6a2aad29-36c7-4f17-b04d-f8932b860839.png)
 
 Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
+ 
+ 
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
 
  
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
- 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
