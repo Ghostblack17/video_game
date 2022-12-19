@@ -5,11 +5,13 @@
  
 ![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
  
-
+![playstation-logo](https://user-images.githubusercontent.com/120348491/208379390-fc46ea23-63bb-43c1-8bd1-87112b9799d1.jpg)
 Playstation Store 링크 : https://store.playstation.com/ko-kr/
- 
+
+![nintendo](https://user-images.githubusercontent.com/120348491/208379503-d597716e-2cb3-47e8-9f43-d24d3fa94ded.png)
 Nintendo Store 링크 : https://store.nintendo.co.kr/
- 
+
+![gaming-xbox-banner-1659960224](https://user-images.githubusercontent.com/120348491/208379408-6a2aad29-36c7-4f17-b04d-f8932b860839.png)
 Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 
  
