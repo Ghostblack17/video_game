@@ -1,6 +1,6 @@
 <div align="center">
 
- ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=25&height=300&fontAlign=70&fontAlignY=30)
+ ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
 
  
 ![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
