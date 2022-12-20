@@ -30,5 +30,3 @@ def run_total_app() :
         if len(selected_list) >= 2 :
             sb.heatmap(data = cor, annot= True, cmap=plt.cm.CMRmap_r)
             st.pyplot(fig1)
-            
-        fig2 = plt.figure
