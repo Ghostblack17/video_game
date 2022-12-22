@@ -46,6 +46,8 @@ Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
+
+데이터 참고 : https://www.vgchartz.com/
  
 </div>
 
