@@ -22,6 +22,8 @@ def run_total_app() :
         if st.button('전체 데이터프레임 살펴보기') :
             st.dataframe(df)
         
+        
+        
             
         column_list = df.columns
         selected_columns = st.multiselect('살펴보실 컬럼을 선택해주세요.', column_list)
@@ -84,10 +86,6 @@ def run_total_app() :
                   )
         st.plotly_chart(fig5)
         st.text('북미가 가장 높다.')
-        
-        
-        
-        
         
 
         # 장르 순위
