@@ -7,7 +7,7 @@ import plotly.express as px
 
 
 def run_EU_app() :
-        
+
         st.subheader('유럽 판매량 분석')
         img_url = 'https://gisgeography.com/wp-content/uploads/2020/11/Europe-Map-Feature.jpg'
         st.image(img_url)
@@ -24,7 +24,9 @@ def run_EU_app() :
         st.subheader('유럽 역대 플랫폼 판매량')
         df_sorted = df.sort_values('EU_Sales', ascending=False)
         fig2 = px.bar(df_sorted, x='Platform', y='EU_Sales')
+        fig2.update_layout( barmode = 'stack' , xaxis = { 'categoryorder' : 'total descending' } )
         st.plotly_chart(fig2)
+        st.text('유럽 기준 소니의 PS3와 PS2가 가장 많이 판매되었습니다.')
         
         
         fig4 = px.pie(df, 'Platform', 'EU_Sales', title='유럽 플랫폼 역대 판매량', color_discrete_sequence = px.colors.sequential.Viridis,

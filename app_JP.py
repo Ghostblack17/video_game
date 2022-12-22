@@ -24,7 +24,9 @@ def run_JP_app() :
         st.subheader('일본 역대 플랫폼 판매량 차트')
         df_sorted = df.sort_values('JP_Sales', ascending=False)
         fig2 = px.bar(df_sorted, x='Platform', y='JP_Sales')
+        fig2.update_layout( barmode = 'stack' , xaxis = { 'categoryorder' : 'total descending' } )
         st.plotly_chart(fig2)
+        st.text('일본 기준으로 닌텐도 DS가 가장 많이 판매되었습니다.')
         
         
         fig4 = px.pie(df, 'Platform', 'JP_Sales', title='일본 역대 플랫폼 판매량', color_discrete_sequence = px.colors.sequential.Viridis,

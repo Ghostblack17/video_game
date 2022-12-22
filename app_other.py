@@ -24,7 +24,9 @@ def run_other_app() :
         st.subheader('기타 국가 역대 플랫폼 판매량')
         df_sorted = df.sort_values('Other_Sales', ascending=False)
         fig2 = px.bar(df_sorted, x='Platform', y='Other_Sales')
+        fig2.update_layout( barmode = 'stack' , xaxis = { 'categoryorder' : 'total descending' } )
         st.plotly_chart(fig2)
+        st.text('기타 국가들도 PS2가 가장 많이 판매되었습니다.')
             
             
         fig4 = px.pie(df, 'Platform', 'Other_Sales', title='기타 국가 플랫폼 역대 판매량', color_discrete_sequence = px.colors.sequential.Viridis,
