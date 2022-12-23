@@ -2,6 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
  
+ # Connect URL
+ http://ec2-3-38-213-114.ap-northeast-2.compute.amazonaws.com:8501/
+ 
+
+ 
  데이터 참고 : https://www.vgchartz.com/
  
 ![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
