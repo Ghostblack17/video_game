@@ -1,7 +1,6 @@
-<div align="center">
-
- ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
-
+![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
+ 
+ 데이터 참고 : https://www.vgchartz.com/
  
 ![gh-index-gamingconsoles-052-print-preview-1659705142](https://user-images.githubusercontent.com/120348491/208377574-6894cd65-bfe0-4539-bb1f-86471256e2fc.jpg)
  
@@ -24,11 +23,14 @@ Nintendo Store 링크 : https://store.nintendo.co.kr/
 
 Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
  
- 
+<br><br><br>
+
+* Blog
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
 
- 
+
+* Develop Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -44,10 +46,7 @@ Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
+<br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
-
-데이터 참고 : https://www.vgchartz.com/
- 
-</div>
 
