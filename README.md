@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Console%20Game!&fontSize=50&rotate=20&height=300&fontAlign=70&fontAlignY=30)
  
  데이터 참고 : https://www.vgchartz.com/
@@ -24,6 +26,7 @@ Nintendo Store 링크 : https://store.nintendo.co.kr/
 Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
  
 <br><br><br>
+_________
 
 * Blog
 
@@ -47,6 +50,10 @@ Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <br><br><br>
+_________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostblack17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
