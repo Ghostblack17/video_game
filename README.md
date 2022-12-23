@@ -24,12 +24,6 @@ _________
 Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
  
 _________
-
-* Blog
-
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
-
-_________
  
 * Develop Skills
 
@@ -46,7 +40,11 @@ _________
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+ 
+* Blog
 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
+ 
 _________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghostblack17&show_icons=true&theme=tokyonight)
