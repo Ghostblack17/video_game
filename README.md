@@ -8,13 +8,12 @@
  
 ![playstation-logo](https://user-images.githubusercontent.com/120348491/208379886-0cc28ad8-5f12-47ea-9d49-88ec69e034ad.jpg)
 
-_________
-
 Playstation Store 링크 : https://store.playstation.com/ko-kr/
 
-![nintendo](https://user-images.githubusercontent.com/120348491/208379503-d597716e-2cb3-47e8-9f43-d24d3fa94ded.png)
 
 _________
+ 
+![nintendo](https://user-images.githubusercontent.com/120348491/208379503-d597716e-2cb3-47e8-9f43-d24d3fa94ded.png)
 
 Nintendo Store 링크 : https://store.nintendo.co.kr/
 
@@ -22,16 +21,13 @@ _________
 
 ![gaming-xbox-banner-1659960224](https://user-images.githubusercontent.com/120348491/208379804-16fbcfc6-dcd3-40e1-b023-1c88e682cd29.png)
 
-
 Xbox Store 링크 : https://www.xbox.com/ko-KR/microsoft-store
  
-
 _________
 
 * Blog
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Ghost_blog&theme=dark)](https://ghostwing17.tistory.com)
-
 
 _________
  
@@ -50,7 +46,6 @@ _________
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
 
 _________
 
